@@ -1,5 +1,5 @@
 Package: son.of.basilisk
-Version: 0.0.1
+Version: 0.0.2
 Title: Son of Basilisk
 Authors@R:
     person("Aaron", "Lun", email="infinite.monkeys.with.keyboards@gmail.com",
