@@ -1,6 +1,6 @@
 Package: son.of.basilisk
-Version: 0.99.7
-Date: 2020-01-22
+Version: 0.99.8
+Date: 2020-01-25
 Title: Son of Basilisk
 Authors@R:
     person("Aaron", "Lun", email="infinite.monkeys.with.keyboards@gmail.com",
