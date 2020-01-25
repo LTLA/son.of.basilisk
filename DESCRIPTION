@@ -1,5 +1,5 @@
 Package: son.of.basilisk
-Version: 0.99.8
+Version: 0.99.9
 Date: 2020-01-25
 Title: Son of Basilisk
 Authors@R:
@@ -9,7 +9,7 @@ License: GPL-3
 Description: Provides an example of how to set up a 
     package that depends on the basilisk package.
 Imports:
-    basilisk (>= 0.99.45),
+    basilisk,
     reticulate
 Suggests:
     testthat
